@@ -1,0 +1,2 @@
+enum Colors { Red = 12, Black = 0, White = 15, Purple = 5, Yellow = 14, Green = 10, DarkGreen = 2, ColourOnThePurple = 94, WhiteOnThePurple = 95, PurpleOnTheYellow = 237, YellowOnBlue = 190, GreenOnRed = 74, BlueOnRed = 75, Blue = 11 }; // цвета
+enum Keys { ENTER = 13, ESC = 27, SPACE = 32, LEFT = 75, RIGHT = 77, DOWN = 80, UP = 72, Q = 81, W = 87, E = 69, R = 82, T = 84, Y= 89, U = 85, I = 73, O = 79, P = 80, A = 65, S = 83, D = 68, F = 70, G = 71, H = 72, J = 74, K = 75, L = 76, Z = 90, X = 88, C = 67, V = 86, B = 66, N = 78, M = 77 }; // коды клавиш
